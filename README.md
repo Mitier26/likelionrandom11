@@ -20,7 +20,7 @@
 - 좋아하는 게임 : 지금은 없음
 - 좋아했던 게임 : Alicia, FF14, 아크서바이벌
 - 만들고자 하는 게임 : 레이싱 게임, 서바이버 게임, 아이들 게임, 탄막 슈팅 게임
-[![Video Label](https://youtu.be/8aR-c3YZnFU?si=UOQcRWxyWn64LbCm/0.jpg)](https://youtu.be/8aR-c3YZnFU?si=UOQcRWxyWn64LbCm?t=0s)
+[![Video Label](http://img.youtube.com/vi/8aR-c3YZnFU/0.jpg)](https://youtu.be/8aR-c3YZnFU)
 ***
 
 ###### 원선희 자기소개
@@ -39,7 +39,7 @@
 - 좋아하는 게임 : WorldWarZ aftermath, 이터널리턴
 - 좋아했던 게임 : 무수히 많음...ㅠㅠ
 - 만들고자 하는 게임 : RPG, 수집형 게임 등 육성위주의 게임
-[![Video Label](http://img.youtube.com/vi/8aR-c3YZnFU/0.jpg)](https://youtu.be/8aR-c3YZnFU)
+
 
 ***
 #### 오석훈
