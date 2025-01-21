@@ -39,6 +39,7 @@
 - 좋아하는 게임 : WorldWarZ aftermath, 이터널리턴
 - 좋아했던 게임 : 무수히 많음...ㅠㅠ
 - 만들고자 하는 게임 : RPG, 수집형 게임 등 육성위주의 게임
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/59USvjy2toI)
 
 ***
 #### 오석훈
