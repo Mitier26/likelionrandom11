@@ -1,6 +1,5 @@
 # likelionrandom11
 
-***
 ## 자유 게시판
 멋사 3기 랜덤 11조
 
@@ -9,7 +8,9 @@
 원선희 다녀감
 
 오석훈 왔다감
-***
+
+## 배민혁 입니다!(This is a H2)
+![Alt text](/img/AegithalosCaudatusCaudatus.jpg "배민혁 프로필 사진")
 
 
 ## 자기소개소
@@ -21,6 +22,8 @@
 
 ***
 
+###### 원선희 자기소개
+![Objection](/img/objection.jpg "이의있소")
 - 닉네임 : WonStory
 - 좋아하는 게임 : 롤
 - 만들고자 하는 게임 : 퍼즐 추리 게임
@@ -35,6 +38,12 @@
 - 좋아하는 게임 : WorldWarZ aftermath, 이터널리턴
 - 좋아했던 게임 : 무수히 많음...ㅠㅠ
 - 만들고자 하는 게임 : RPG, 수집형 게임 등 육성위주의 게임
+
+=======
+
+- 닉네임 : OH-SEOKHOON
+- 좋아하는 게임 : 리듬게임
+- 만들고자 하는 게임 : STG
 
 ***
 
