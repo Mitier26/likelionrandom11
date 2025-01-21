@@ -10,15 +10,8 @@
 
 오석훈 왔다감
 
-<<<<<<< HEAD
 우현식 들렀음
 
-## 배민혁 입니다!(This is a H2)
-![Alt text](/img/AegithalosCaudatusCaudatus.jpg "배민혁 프로필 사진")
-
-
-=======
->>>>>>> b18d45d504a94673040c89bde581b0afc857e066
 ## 자기소개소
 
 - 닉네임 : Molkang
