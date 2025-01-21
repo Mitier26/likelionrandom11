@@ -15,7 +15,7 @@
 배민혁 다녀감
 
 ## 자기소개소
-![Alt text](/img/izzy.gif "배민혁 프로필 사진")
+![Alt text](/img/izzy.gif "우명균 프로필 사진")
 - 닉네임 : Molkang
 - 좋아하는 게임 : 지금은 없음
 - 좋아했던 게임 : Alicia, FF14, 아크서바이벌
