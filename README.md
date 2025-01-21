@@ -5,12 +5,15 @@
 
 원선희 다녀감
 
-## 배민혁 입니다!(This is a H2)
+### 배민혁 입니다!
 ![Alt text](/img/AegithalosCaudatusCaudatus.jpg "배민혁 프로필 사진")
+## 자기소개소
+- 닉네임 : snowcandy3355
+- 좋아하는 게임 : WorldWarZ aftermath, 이터널리턴
+- 좋아했던 게임 : 무수히 많음...ㅠㅠ
+
 
 우명균이 만듬
-
-원선희 다녀감
 
 ## 자기소개소
 
