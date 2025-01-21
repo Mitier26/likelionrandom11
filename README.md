@@ -20,7 +20,6 @@
 - 좋아하는 게임 : 지금은 없음
 - 좋아했던 게임 : Alicia, FF14, 아크서바이벌
 - 만들고자 하는 게임 : 레이싱 게임, 서바이버 게임, 아이들 게임, 탄막 슈팅 게임
-[영사]
 [![Video Label](http://img.youtube.com/vi/8aR-c3YZnFU/0.jpg)](https://youtu.be/8aR-c3YZnFU)
 ***
 
