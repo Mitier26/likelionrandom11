@@ -2,15 +2,7 @@
 ![Title](/img/Title.JPG "대문")
 
 ## 자유 게시판
-멋사 3기 랜덤 11조
-
-우명균이 만듬
-
-원선희 다녀감
-
-오석훈 왔다감
-
-우현식 들렀음
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=1A171A&background=FBA2FF00&center=true&width=500&lines=%EB%A9%8B%EC%82%AC+3%EA%B8%B0+%EB%9E%9C%EB%8D%A4+11%EC%A1%B0;%EC%9A%B0%EB%AA%85%EA%B7%A0%EC%9D%B4+%EB%A7%8C%EB%93%AC;%EC%9B%90%EC%84%A0%ED%9D%AC+%EB%8B%A4%EB%85%80%EA%B0%90;%EC%98%A4%EC%84%9D%ED%9B%88+%EC%99%94%EB%8B%A4%EA%B0%90;%EC%9A%B0%ED%98%84%EC%8B%9D+%EB%93%A4%EB%A0%80%EC%9D%8C)](https://git.io/typing-svg)
 
 ## 자기소개소
 
