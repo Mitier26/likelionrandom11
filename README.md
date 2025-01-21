@@ -27,7 +27,7 @@
 
 ***
 
-# 배민혁 입니다!
+#### 배민혁 입니다!
 
 ![Alt text](/img/AegithalosCaudatusCaudatus.jpg "배민혁 프로필 사진")
 
