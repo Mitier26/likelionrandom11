@@ -22,7 +22,7 @@
 ***
 
 ###### 원선희 자기소개
-![Objection](/img/objection.jpg "이의있소"){: width="50%" height="50%"}
+![Objection](/img/objection.jpg "이의있소")
 - 닉네임 : WonStory
 - 좋아하는 게임 : 롤
 - 만들고자 하는 게임 : 퍼즐 추리 게임
