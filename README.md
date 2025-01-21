@@ -9,6 +9,8 @@
 
 오석훈 왔다감
 
+우현식 들렀음
+
 ## 배민혁 입니다!(This is a H2)
 ![Alt text](/img/AegithalosCaudatusCaudatus.jpg "배민혁 프로필 사진")
 
@@ -46,6 +48,12 @@
 - 만들고자 하는 게임 : STG
 
 ***
+
+### 우현식 자기소개
+
+- 닉네임 : Tomscafe
+- 좋아하는 게임 : TFT, LostArk, ProjectZomboid
+- 만들고자하는 게임 : Vamsurlike, 2D Game
 
 ## 할일
 
